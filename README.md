@@ -3,10 +3,11 @@
 
 -----
 
-1. 小雅智能教学平台课件[下载工具](./xy_downloader.js)，以Tampermonkey插件脚本的形式完成功能。
+1. 小雅智能教学平台课件[下载工具](./xy_downloader.js)，以Tampermonkey插件脚本的形式完成功能。可以通过[greasyfork](https://greasyfork.org/scripts/463259)安装该插件。
+插件使用方法如下：
     - 进入课程页面
-    - 点击左下角按钮一键下载
-    ![下载页面](./imgs/example_download.png)
-    **注：若文件下载数量不对，请查看浏览器上方网址栏右侧，点击下载按钮允许页面多次下载文件**
-    ![设置](./imgs/example_setting.png)
+    - 点击左下角下载按钮
+    ![下载页面](./imgs/example1_button.png)
+    - 在课程附件清单中，通过点击下载需要的课件
+    ![附件清单](./imgs/example2_attachment_list.png)
 
