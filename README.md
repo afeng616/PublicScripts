@@ -11,3 +11,6 @@
     - 在课程附件清单中，通过点击下载需要的课件
     ![附件清单](./imgs/example2_attachment_list.png)
 
+2. 文件一致性检验，通过sha256算法计算hash值，对比校验一致性。  
+    使用方法：file_verification_sha256.py [file1] [file2]
+    ![文件一致性校验使用样例](imgs/example21_file_verification_example.png)
